@@ -6,8 +6,8 @@ import { Providers } from '@/components/Providers';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Your App Name',
-  description: 'Your app description',
+  title: 'Task Manager',
+  description: 'Manage your tasks efficiently and stay organized with our intuitive task management tool.',
 };
 
 export default function RootLayout({
